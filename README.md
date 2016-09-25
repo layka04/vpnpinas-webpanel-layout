@@ -4,3 +4,10 @@ Layout of Project VPNPinas webpanel.
 .pdf - use this to open the layout in photoshop. Using this method you can retain the High Defintion version of the original .sketch.
 
 .sketch -> feel free to fork this. this is the original version of the v0.1 layout.
+
+I'm not the owner of the VPNPinas main project, just using my free time to contribute.
+#proudVPNPinas user here!
+
+CREDITS:
+devildarkrs
+jydy
