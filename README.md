@@ -8,6 +8,6 @@ Layout of Project VPNPinas webpanel.
 I'm not the owner of the VPNPinas main project, just using my free time to contribute.
 #proudVPNPinas user here!
 
-CREDITS:
-devildarkrs
+CREDITS:<br/>
+devildarkrs<br/>
 jydy
